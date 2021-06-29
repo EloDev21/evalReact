@@ -1,0 +1,8 @@
+
+.Row{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    width: 150px;
+    height: 10px;
+}

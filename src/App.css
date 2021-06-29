@@ -1,5 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -35,4 +42,15 @@
   to {
     transform: rotate(360deg);
   }
+}
+.navbar{
+ padding-bottom: 150px;
+}
+.navbar-toggler{
+  margin-top:  -750px;
+  z-index: 9;
+  position: initial;
+  display: flex;
+  float: inline-end;
+
 }
